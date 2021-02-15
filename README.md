@@ -21,8 +21,5 @@
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
-<p align = "left"><a href="https://www.pygame.org/docs/pygame_tiny.gif" target="_blank"> <img src="https://www.pygame.org/docs/pygame_tiny.gif" alt="pygame" width="200" height="50"/> </a> </p>
-
-
- 
- 
+<p align = "left"><a href="https://www.pygame.org" target="_blank"> <img src="https://www.pygame.org/docs/pygame_tiny.gif" alt="pygame" width="200" height="50"/> </a> </p>
+<a href="https://www.hackerrank.com/Swarit_Choudhari" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--FcfmxQC7--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_500%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fnr7k1mroiod8b8fc6ijq.png&f=1&nofb=1" alt="Hackerrank" width="70" height="70"/> </a> </p>
