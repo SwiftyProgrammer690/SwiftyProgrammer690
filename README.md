@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3>I am a kid who develops with python and html,css, and js. Hope to have a great time!)</h3>
 <!--
-**Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**SwiftyProgrammer690/SwiftyProgrammer690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on :- Data Science Projects and Web Projects.
 - 🌱 I’m currently learning :- Pygame
