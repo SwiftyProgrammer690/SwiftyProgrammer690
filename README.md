@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swarit Choudhari</h1>
 <h3 align="center">A passionate frontend developer from America and am a data scientist.</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Scrimba 404 webpage challenge**
 
-- 🌱 I’m currently learning **Pygame**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python**
 
