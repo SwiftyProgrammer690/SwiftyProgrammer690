@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swarit Choudhari</h1>
 <h3 align="center">A passionate frontend developer from America and am a data scientist.</h3>
 
-- 🔭 I’m currently working on **JetSCHEME 1.0**
+- 🔭 I’m currently working on **TimeSphere 1.0**
 
 - 🌱 I’m currently learning **Java**
 
