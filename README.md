@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Swarit Choudhari</h1>
 <h3 align="center">A passionate frontend developer from America and am a data scientist.</h3>
 
-- 🔭 I’m currently working on **TimeSphere 1.0**
+- 🔭 I’m currently working on **TypeMaster 1.5**
 
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **swaritchoudhari.p.s.y@gmail.com**
+
+- 🚀 Released Games: <a href="https://typemaster-10.swaritchoudhari.repl.co/">TypeMaster </a>and <a href="https://timesphere.swaritchoudhari.repl.co/">TimeSphere.</a> More Coming Soon!
 
 - ⚡ Fun fact **I am a kid who loves to code and am a state champ at chess!**
 
