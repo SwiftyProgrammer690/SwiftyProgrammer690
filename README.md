@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swarit Choudhari</h1>
 <h3 align="center">A passionate frontend developer from America and am a data scientist.</h3>
 
-- 🔭 I’m currently working on **Cuberunner 2.0**
+- 🔭 I’m currently working on **Fireworks Python Dependency**, **dogfacts-API**
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Game Development with Unity**
+- 💬 Ask me about **Anything Python!**
 
 - 📫 How to reach me **swaritchoudhari.p.s.y@gmail.com**
 
