@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fireworks Python Dependency**, **dogfacts-API**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Roblox Lua Programming**
 
 - 💬 Ask me about **Anything Python!**
 
