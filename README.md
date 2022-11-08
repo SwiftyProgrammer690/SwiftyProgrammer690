@@ -16,9 +16,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-![me as an octo cat](https://user-images.githubusercontent.com/68472469/174205613-eb8e5813-9f66-484e-8123-2d17cf921c56.PNG)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/codingnode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codingnode" height="30" width="40" /></a>
@@ -31,17 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swiftyprogrammer690&show_icons=true&theme=onedark&locale=en&layout=compact" alt="swiftyprogrammer690" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swiftyprogrammer690&show_icons=true&theme=onedark&locale=en" alt="swiftyprogrammer690" /></p>
 
- <br/>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SwiftyProgrammer690&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-
-
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=SwiftyProgrammer690&theme=one-dark)
-<!--🐍💬SNAKETEXT / 🌐WEBSITE: https://textanim.com/ -->
 
 
 <div align="center">
