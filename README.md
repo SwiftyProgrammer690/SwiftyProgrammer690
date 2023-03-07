@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a kid who loves to code and am a state champ at chess!**
 
 <h3>Bio 📚</h3>
-<p>I am a 13 year old freelance developer working for mostly others project and I am a proud member of @hackclub on Github. I also am a indie game developer and you can check out some of my games at my itch page which is above. Thanks for checking out my Github profile! Bye!</p>
+<p>I am a 15 year old freelance developer working for mostly others project and I am a proud member of @hackclub on Github. I also am a indie game developer and you can check out some of my games at my itch page which is above. Thanks for checking out my Github profile! Bye!</p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
