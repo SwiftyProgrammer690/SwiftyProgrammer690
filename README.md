@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I'm a student and robotics engineer passionate about technology and innovation. Most of the projects on this account are from years ago...
+Hi! I'm a student and robotics engineer passionate about technology and innovation. 
 
 **Top Skills:**  
 React.js, C++, Python, MongoDB, SQL, Computer Science
@@ -16,4 +16,3 @@ React.js, C++, Python, MongoDB, SQL, Computer Science
 My socials are linked on my GitHub.
 
 Always excited to learn new things and take on new challenges!  
-(*lowkey idk what to put here but hope this works 😄*)
