@@ -10,7 +10,7 @@ React.js, C++, Python, MongoDB, SQL, Computer Science
 - VEX Robotics
 
 **Achievements:**  
-- TSA Nationals Winner  
+- TSA Nationals Winner (2nd & 3rd)  
 - State Chess Champion
 
 My socials are linked on my GitHub.
